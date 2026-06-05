@@ -14,3 +14,11 @@
 10:08    -    DNS query to google.com
 
 10:09    -    DNS query to github.com
+
+
+## Screenshots
+
+### Splunk Interface
+![Splunk Interface](Screenshot_01.png)
+
+![Threat Hunting](Screenshot_02.png)
